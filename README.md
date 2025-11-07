@@ -33,8 +33,8 @@ Nous structurons notre offre autour de quatre domaines d'expertise pour garantir
 Nous concevons et déployons des infrastructures numériques robustes et énergétiquement efficaces.
 
 *   **Développement sur Mesure :** Sites Web, Applications Mobile, ERP (NIAFAD), Plateformes Interactives.
-*   **Cloud & DevOps :** Intégration des technologies cloud (AWS, Hostinger) et déploiement automatisé pour la scalabilité.
-*   **Infrastructure Robuste :** Serveurs physiques (Dell/HP) et hébergements cloud optimisés pour la performance.
+*   **Cloud & DevOps :** Intégration des technologies cloud et déploiement automatisé pour la scalabilité.
+*   **Infrastructure Robuste :** Serveurs physiques et hébergements cloud optimisés pour la performance.
 
 ### 2. Innovations & Outils sur Mesure
 
@@ -59,26 +59,26 @@ Nous sommes votre partenaire stratégique pour l'adoption efficace et pérenne d
 
 ---
 
-## 🚀 Projet Phare : Digitalisation des Communes
+## 🚀 Projet Phare : Digitalisation des Services Publics
 
-Un exemple concret de notre impact : le projet pour la **Direction Générale des Collectivités Territoriales (DGCT)**.
+Un exemple concret de notre impact : la digitalisation des services pour les **Collectivités Territoriales**.
 
 | Objectif Clé | Description |
 | :--- | :--- |
-| **Gestion Optimisée** | Amélioration complète de la gestion des collectivités locales. |
+| **Gestion Optimisée** | Amélioration complète de la gestion des structures publiques. |
 | **Gouvernance Renforcée** | Modernisation de la gouvernance locale et transparence accrue. |
-| **Transfert de Compétences** | Formation et autonomisation complète des équipes locales sur 9 mois. |
+| **Transfert de Compétences** | Formation et autonomisation complète des équipes locales. |
 
 ---
 
-## 🤝 Notre Équipe d'Experts
+## 🤝 Notre Équipe
 
 Notre équipe est composée de professionnels qualifiés, garantissant l'excellence à chaque étape de vos projets :
 
-*   **Chef du Projet** (M. Cissé Mohamed) : Pilotage technique, gestion des risques.
-*   **Développeur Senior** (Mlle Aurélie Kabore) : Développement de plateformes, Big Data.
-*   **Expert Technique** (M. Pape Soumaila Traoré) : Analyse des exigences, conception UX/UI.
-*   **Expert Sécurité** (M. Moussa Fofana) : Conformité réglementaire, protection des données.
+*   **Pilotage de Projet :** Expertise en gestion des risques et coordination d'équipe.
+*   **Développement Logiciel :** Maîtrise des plateformes, Big Data et architecture logicielle.
+*   **Conception UX/UI :** Analyse des exigences et conception centrée utilisateur.
+*   **Sécurité et Conformité :** Expertise en protection des données et audit de sécurité.
 
 ---
 
@@ -92,4 +92,4 @@ Nous sommes prêts à construire ensemble un avenir durable et digital.
 | **Téléphone** | +223 72 19 46 54 |
 | **Email** | `contact@greenfad.tech` (à confirmer) |
 
-*Ce README a été mis à jour pour refléter la vision et l'expertise de GREEN FAD SARL, en s'appuyant sur le document de présentation fourni.*
+*Ce README a été mis à jour pour refléter une présentation universelle de GREEN FAD SARL, sans mention de noms de personnes ou d'organisations spécifiques.*
