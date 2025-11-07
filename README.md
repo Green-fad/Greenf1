@@ -1,4 +1,4 @@
-# GREEN FAD SARL:Accélérateur de la Transformation Numérique et Écologique
+# GREEN FAD SARL : Accélérateur de la Transformation Numérique et Écologique
 
 <p align="center">
   <img src="https://img.shields.io/badge/Innovation-Technologie-green?style=for-the-badge&logo=github" alt="Innovation & Technologie Badge">
